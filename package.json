@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathoid-texvcjs": "^0.5.0",
+    "mhchemparser": "^4.1.1"
+  }
+}
